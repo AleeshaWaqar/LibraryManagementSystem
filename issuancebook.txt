@@ -1,0 +1,180 @@
+1C
+250
+The Great Gatsby
+F. Scott Fitzgerald
+John Smith
+1001
+2D
+320
+To Kill a Mockingbird
+Harper Lee
+Jane Doe
+1002
+3D
+400
+Pride and Prejudice
+Jane Austen
+Michael Johnson
+1003
+4C
+280
+1984
+George Orwell
+Sarah Thompson
+1004
+5C
+350
+The Catcher in the Rye
+J.D. Salinger
+Robert Davis
+1005
+6E
+200
+Animal Farm
+George Orwell
+Lisa Anderson
+1006
+7E
+420
+Brave New World
+Aldous Huxley
+Emily Wilson
+1007
+8E
+180
+Fahrenheit 451
+Ray Bradbury
+David Brown
+1008
+9B
+300
+The Hobbit
+J.R.R. Tolkien
+Samantha Miller
+1009
+10A
+260
+The Lord of the Rings
+J.R.R. Tolkien
+Christopher Green
+1010
+11B
+380
+To the Lighthouse
+Virginia Woolf
+Amanda Wilson
+1011
+12C
+240
+Frankenstein
+Mary Shelley
+Richard Thompson
+1012
+13B
+400
+The Odyssey
+Homer
+Michelle Lewis
+1013
+14D
+220
+Romeo and Juliet
+William Shakespeare
+Andrew Taylor
+1014
+15C
+350
+The Adventures of Tom Sawyer
+Mark Twain
+Rebecca Harris
+1015
+16D
+280
+The Scarlet Letter
+Nathaniel Hawthorne
+Thomas Turner
+1016
+17C
+300
+Hamlet
+William Shakespeare
+Matthew Allen
+1017
+18B
+320
+The Great Expectations
+Charles Dickens
+Katherine Lee
+1018
+19A
+260
+Alice's Adventures in Wonderland
+Lewis Carroll
+Stephanie Adams
+1019
+20H
+400
+One Hundred Years of Solitude
+Gabriel Garcia Marquez
+Oliver Young
+1020
+21A
+250
+The Picture of Dorian Gray
+Oscar Wilde
+Benjamin Moore
+1021
+22E
+360
+The Grapes of Wrath
+John Steinbeck
+Laura Baker
+1022
+23B
+300
+The Adventures of Huckleberry Finn
+Mark Twain
+Alexander Turner
+1023
+24B
+220
+The Old Man and the Sea
+Ernest Hemingway
+Victoria Thompson
+1024
+25C
+380
+Don Quixote
+Miguel de Cervantes
+Christina Davis
+1025
+26A
+260
+War and Peace
+Leo Tolstoy
+Nicholas Johnson
+1026
+27D
+400
+Moby-Dick
+Herman Melville
+Jonathan Clark
+1027
+28A
+250
+The Divine Comedy
+Dante Alighieri
+Diana Roberts
+1028
+29A
+320
+The Count of Monte Cristo
+Alexandre Dumas
+Christine Brown
+1029
+30A
+280
+The Brothers Karamazov
+Fyodor Dostoevsky
+Joseph Wilson
+1030
