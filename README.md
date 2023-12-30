@@ -21,3 +21,6 @@ Clone the Repository:
 AleeshaWaqar/LibraryManagementSystem (github.com)
 Start the application:
 Click the main.exe file to go through the project 
+**acknowlegment:**
+maleeha https://github.com/maleehapie
+
